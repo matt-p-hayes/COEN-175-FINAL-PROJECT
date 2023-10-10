@@ -1,6 +1,6 @@
 # COEN-175-FINAL-PROJECT
 ## Overview
-A compiler for a simplified version of C. This project was completed in phases culminating in the final compiler completed suring phase 6.
+A compiler for a simplified version of C. This project was completed in phases culminating in the finalized version in phase 6.
 
 ## Phases
 - Phase 1: Lexical Analysis - Used Flex to generate a scanner for the Simple C language
